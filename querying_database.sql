@@ -1,4 +1,8 @@
-SELECT*
+/* This SQL script is used to perform an exploratory analysis of the data */
+
+
+-- Display and pin entire table for reference 
+SELECT* 
 FROM passenger_satisfaction;
 
 
