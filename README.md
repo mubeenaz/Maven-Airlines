@@ -1,10 +1,10 @@
-# Maven-Airlines
+# Maven Airlines
 
 To view the dashboard which supplements this project, [Click Here](https://public.tableau.com/app/profile/mubeen1173/viz/MavenAirlines_16601138186880/Dashboard1)
 
 ## Introduction 
 
-Since I was a little kid, I’ve always had a fascination for airports and airplanes. I remember wanting to stay at the airports all day long and just watch all the airplanes whenever we were dropping someone off or I was going on a trip myself. It wasn’t just the planes taking off which fascinated me, it was also the small things like watching the luggage/cargo being loaded onto the plane, seeing the pilots and flight attendants walking around the airport, and watching the planes arrive at and depart from the terminal gates. I haven’t even mentioned my curiosity of how these enormous things are made and how they’re able to fly so safely several thousand feet above the ground with hundreds of passengers onboard. Now, it’s probably easy to see why I was excited to work on this project. 
+Since I was a little kid, I’ve always had a fascination for airports and airplanes. I remember wanting to stay at the airports all day long and just watch the airplanes whenever we were dropping someone off or I was going on a trip myself. It wasn’t just the planes taking off which fascinated me, it was also the small things like watching the luggage/cargo being loaded onto the plane, seeing the pilots and flight attendants walking around the airport, and watching the planes arrive at and depart from the terminal gates. I haven’t even mentioned my curiosity of how these enormous things are made and how they’re able to fly so safely several thousand feet above the ground with hundreds of passengers onboard. Now, it’s probably easy to see why I was excited to work on this project. 
 
 ## Problem Statement 
 
@@ -36,4 +36,4 @@ A possible solution for the WiFi inconvenience passengers are facing would be to
 
 ## Acknowledgments 
 
-I'd like to thank the Maven Analytics platform for providing the dataset used to complete this project and giving me an opportunity to help solve their business problem. 
+I'd like to thank the Maven Analytics platform for providing the dataset used to complete this project and giving me an opportunity to help solve their Airline's business problem. 
